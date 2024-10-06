@@ -1,0 +1,74 @@
+.custom-table .ant-table-cell {
+  border-top: 1px solid black !important;
+}
+
+.custom-cell-background .ant-table-cell {
+  background-color:  #F5F5F5 !important;
+}
+
+.dark-background .ant-table-cell{
+  background-color:  black !important;
+  color: white;
+}
+
+.ant-table-cell {
+  height: 10px !important;
+  padding-top: 8px !important; 
+  padding-bottom: 8px !important;
+  line-height: 18px;
+  font-size: 16px;
+  border-color: #d9d9d9 !important;
+}
+
+.custom-table-header .ant-table-thead > tr > th {
+  background-color:  #F5F5F5 !important;
+  font-weight: bold !important;
+}
+
+.custom-radio-button {
+ border-radius:2px !important;
+}
+
+.content-header {
+    justify-content:space-between;
+    align-items: center;
+    text-align: center;
+    position: relative;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+
+.content-header-custom {
+  position: absolute !important;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  padding-right: 10px;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  text-align: end;
+}
+
+.form-style{
+    height:100%;
+    width: 100%;
+    display: flex;
+    padding: 8px;
+    justify-content: end;
+    align-items: center;
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0
+}
+
+.form-input-style {
+    width: 100%;
+    height: 100%;
+    padding: 0,
+}
+

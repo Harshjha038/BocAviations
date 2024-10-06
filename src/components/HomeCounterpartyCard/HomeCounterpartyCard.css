@@ -1,0 +1,22 @@
+.counterparty-card-title {
+  margin: 0;
+  font-weight: 500;
+  margin-bottom: 4px !important;
+  width: auto;
+  text-overflow: ellipsis;
+  overflow: auto;
+}
+.counterparty-card-body {
+  padding: 0;
+}
+
+.counterparty-card .ant-card-body {
+  padding: 8px 16px;
+  background-color: #f5f5f5;
+}
+.counterparty-card h5 {
+  margin: 0;
+}
+.counterparty-card .ant-card-cover > * {
+  width: auto;
+}
